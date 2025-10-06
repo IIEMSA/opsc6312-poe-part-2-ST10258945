@@ -1,7 +1,3 @@
-Here’s a clean **README.md** you can drop in the project root.
-
----
-
 # SmartPlanner (Android)
 
 A minimal, modern planner app for Android. Users can register/login, manage settings (stored securely), add tasks, and browse tasks via a **weekly calendar bar**. Networking uses Retrofit to a MockAPI backend. UI uses Material 3 with a dark theme.
