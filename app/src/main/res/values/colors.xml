@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Accents -->
+    <color name="teal_200">#03DAC5</color> <!-- Material teal -->
+    <color name="primary">#1F6FEB</color> <!-- GitHub style blue -->
+    <color name="primary_variant">#018786</color> <!-- darker teal variant -->
+
+    <!-- Backgrounds -->
+    <color name="dark_card">#161B22</color> <!-- deep dark gray for cards -->
+    <color name="dark_surface">#0D1117</color> <!-- even darker background -->
+
+    <!-- Text -->
+    <color name="gray_text">#A0A0A0</color> <!-- lighter gray for hints/secondary -->
+</resources>

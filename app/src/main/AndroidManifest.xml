@@ -1,0 +1,26 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".App"
+        android:label="SmartPlanner"
+        android:theme="@style/Theme.SmartPlanner">
+
+        <!-- Make Splash the launcher -->
+        <activity
+            android:name=".ui.SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".ui.login.LoginActivity" android:exported="false"/>
+        <activity android:name=".ui.register.RegisterActivity" android:exported="false"/>
+        <activity android:name=".ui.settings.SettingsActivity" android:exported="false"/>
+        <activity android:name=".ui.home.HomeActivity" android:exported="false"/>
+    </application>
+
+</manifest>

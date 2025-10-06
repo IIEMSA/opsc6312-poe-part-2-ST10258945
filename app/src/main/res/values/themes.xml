@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AppCompat/Material theme for ALL activities -->
+    <style name="Theme.SmartPlanner" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- customize colors if you want -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
