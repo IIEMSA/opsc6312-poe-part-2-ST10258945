@@ -125,7 +125,7 @@ cd SmartPlanner
   * Check Firebase Auth is enabled; try creating a new user and check logs.
 
 ## Youtube Video Link
-https://youtu.be/7WJuQst7FpQ?si=VfypuM62OO8v01vY 
+https://youtu.be/aYDHd2IgGHU?si=IBTJxbZK3qHUhW7U
 
 ##  License
 
